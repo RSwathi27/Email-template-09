@@ -1,0 +1,12 @@
+Learning Git is so cool! Yay.
+
+Repository - Codebase
+Clone - Copy from elsewhere - As the Internet.
+
+Dharmesh cloned Swathi's repo from GitHub.
+
+Git - a version control system.
+"version control"
+
+Git repository - Git manages the versions of each file in the repository.
+
